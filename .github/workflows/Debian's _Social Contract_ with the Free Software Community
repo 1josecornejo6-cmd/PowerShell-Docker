@@ -1,0 +1,270 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://lists.debian.org/debian-announce/1997/msg00017.html
+Subject: Debian's "Social Contract" with the Free Software Community
+Date: Fri, 16 Jan 2026 15:26:29 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--xQoleyNQ5F30itcgWK0hD0bKuYRH6sb5QGjcYgq4LT----"
+
+
+------MultipartBoundary--xQoleyNQ5F30itcgWK0hD0bKuYRH6sb5QGjcYgq4LT----
+Content-Type: text/html
+Content-ID: <frame-1CC037EA221138FC41A1C23E6C3D384B@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://lists.debian.org/debian-announce/1997/msg00017.html
+
+<!-- MHonArc v2.6.19 --><!--X-Subject: Debian's "Social Contract" with the Free Software Community --><!--X-From-R13: oehprNqrovna.bet (Pehpr Breraf) --><!--X-Date: 5 Jul 1997 05:36:31 &#45;0000 --><!--X-Message-Id: m0wkNSr&#45;00IS1iC@debian.org --><!--X-Content-Type: text/plain --><!--X-Head-End--><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-e69db3b6-45d0-4661-a11e-e52d4de22e5a@mhtml.blink" />
+<title>Debian's "Social Contract" with the Free Software Community</title>
+<link rev="made" href="mailto:bruce@debian.org">
+<link rel="index" href="https://lists.debian.org/debian-announce/1997/maillist.html">
+<link rel="top" href="https://lists.debian.org/debian-announce/1997/threads.html">
+<link rel="up" href="https://lists.debian.org/debian-announce/1997/msg00017.html">
+<link rel="prev" href="https://lists.debian.org/debian-announce/1997/msg00016.html">
+<link rel="next" href="https://lists.debian.org/debian-announce/1997/msg00018.html">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+<!--X-Body-Begin-->
+<!--X-User-Header-->
+<!--X-User-Header-End-->
+<!--X-TopPNI-->
+<hr>
+<form method="POST" action="https://lists.debian.org/cgi-bin/spam-report.pl">
+
+
+
+<input type="submit" value="Report as spam" style="float: right">
+
+[<a href="https://lists.debian.org/debian-announce/1997/msg00016.html">Date Prev</a>][<a href="https://lists.debian.org/debian-announce/1997/msg00018.html">Date Next</a>]
+[<a href="https://lists.debian.org/debian-announce/1997/msg00016.html">Thread Prev</a>][<a href="https://lists.debian.org/debian-announce/1997/msg00018.html">Thread Next</a>]
+[<a href="https://lists.debian.org/debian-announce/1997/maillist.html#00017">Date Index</a>]
+[<a href="https://lists.debian.org/debian-announce/1997/threads.html#00017">Thread Index</a>]
+</form>
+
+
+<!--X-TopPNI-End-->
+<!--X-MsgBody-->
+<!--X-Subject-Header-Begin-->
+<h1>Debian's "Social Contract" with the Free Software Community</h1>
+<hr>
+<!--X-Subject-Header-End-->
+<!--X-Head-of-Message-->
+<ul>
+<li><em>To</em>: <a href="mailto:debian-announce%40lists.debian.org">debian-announce@lists.debian.org</a></li>
+<li><em>Subject</em>: Debian's "Social Contract" with the Free Software Community</li>
+<li><em>From</em>: <a href="mailto:bruce%40debian.org">bruce@debian.org</a> (Bruce Perens)</li>
+<li><em>Date</em>: Fri, 4 Jul 97 22:32 PDT</li>
+<li><em>Message-id</em>: &lt;<a href="https://lists.debian.org/msgid-search/m0wkNSr-00IS1iC@debian.org">[&#128270;]</a>&nbsp;<a href="https://lists.debian.org/debian-announce/1997/msg00017.html">m0wkNSr-00IS1iC@debian.org</a>&gt;</li>
+<li><em>Reply-to</em>: Bruce Perens &lt;<a href="mailto:bruce%40debian.org">bruce@debian.org</a>&gt;</li>
+</ul>
+<!--X-Head-of-Message-End-->
+<!--X-Head-Body-Sep-Begin-->
+<hr>
+<!--X-Head-Body-Sep-End-->
+<!--X-Body-of-Message-->
+<pre>
+   DEBIAN'S "SOCIAL CONTRACT" WITH THE FREE SOFTWARE COMMUNITY
+
+We are Software In The Public Interest, producers of the Debian
+GNU/Linux system. This is the "social contract" we offer to the
+free software community.
+
+1. Debian Will Remain 100% Free Software
+
+We promise to keep the Debian GNU/Linux Distribution entirely free
+software. As there are many definitions of free software, we
+include the guidelines we use to determine if software is "free" below.
+We will support our users who develop and run non-free software on
+Debian, but we will never make the system depend on an item of non-free
+software.
+
+2. We Will Give Back to the Free Software Community
+
+When we write new components of the Debian system, we will license them
+as free software. We will make the best system we can, so that free
+software will be widely distributed and used. We will feed back
+bug-fixes, improvements, user requests, etc. to the "upstream" authors
+of software included in our system.
+
+3. We Won't Hide Problems
+
+We will keep our entire bug-report database open for public view at
+all times. Reports that users file on-line will immediately become
+visible to others.
+
+4. Our Priorities are Our Users and Free Software
+
+We will be guided by the needs of our users and the free-software
+community. We will place their interests first in our priorities. We
+will support the needs of our users for operation in many different
+kinds of computing environment. We won't object to commercial software
+that is intended to run on Debian systems, and we'll allow others to
+create value-added distributions containing both Debian and commercial
+software, without any fee from us. To support these goals, we will
+provide an integrated system of high-quality, 100% free software, with
+no legal restrictions that would prevent these kinds of use.
+
+5. Programs That Don't Meet Our Free-Software Standards
+
+We acknowledge that some of our users require the use of programs
+that don't conform to the Debian Free Software Guidelines.
+We have created "contrib" and "non-free" areas in our FTP archive
+for this software. The software in these directories is not part of
+the Debian system, although it has been configured for use with Debian.
+We encourage CD manufacturers to read the licenses of software packages
+in these directories and determine if they can distribute that software
+on their CDs. Thus, although non-free software isn't a part of Debian,
+we support its use, and we provide infrastructure (such as
+our bug-tracking system and mailing lists) for non-free software
+packages.
+
+            THE DEBIAN FREE SOFTWARE GUIDELINES
+
+1. Free Redistribution
+
+The license of a Debian component may not restrict any party from
+selling or giving away the software as a component of an aggregate
+software distribution containing programs from several different
+sources. The license may not require a royalty or other fee for such
+sale.
+
+2. Source Code
+
+The program must include source code, and must allow distribution in
+source code as well as compiled form.
+
+3. Derived Works
+
+The license must allow modifications and derived works, and must allow
+them to be distributed under the same terms as the license of the original
+software.
+
+4. Integrity of The Author's Source Code
+
+The license may restrict source-code from being distributed in modified
+form _only_ if the license allows the distribution of "patch files"
+with the source code for the purpose of modifying the program at build
+time. The license must explicitly permit distribution of software built
+from modified source code. The license may require derived works to
+carry a different name or version number from the original software.
+(This is a compromise. The Debian group encourages all authors to not
+ restrict any files, source or binary, from being modified.)
+
+5. No Discrimination Against Persons or Groups
+
+The license must not discriminate against any person or group of
+persons.
+
+6. No Discrimination Against Fields of Endeavor
+
+The license must not restrict anyone from making use of the program
+in a specific field of endeavor. For example, it may not restrict the
+program from being used in a business, or from being used for genetic
+research.
+
+7. Distribution of License
+
+The rights attached to the program must apply to all to whom the
+program is redistributed without the need for execution of an
+additional license by those parties.
+
+8. License Must Not Be Specific to Debian
+
+The rights attached to the program must not depend on the program's
+being part of a Debian system. If the program is extracted from Debian
+and used or distributed without Debian but otherwise within the terms
+of the program's license, all parties to whom the program is redistributed
+should have the same rights as those that are granted in conjunction with
+the Debian system.
+
+9. License Must Not Contaminate Other Software
+
+The license must not place restrictions on other software that is
+distributed along with with the licensed software. For example, the
+license must not insist that all other programs distributed on the
+same medium must be free software.
+
+10. Example Licenses
+
+The "GPL", "BSD", and "Artistic" licenses are examples of licenses
+that we consider "free".
+
+===================================================================
+
+The concept of a Linux distribution stating its "social contract with
+the free software community" was suggested to me by Ean Schussler. I
+composed a draft, and then it was refined by the Debian developers in
+e-mail confernce during most of June. They then voted to approve it as
+our publicly stated policy. We hope that other software projects,
+including other Linux distributions, will use this document as a model.
+We will gladly grant permission for any such use.
+
+	Respectfully Submitted
+
+	Bruce Perens
+	Debian Project Leader
+-- 
+Bruce Perens K6BP   bruce@pixar.com   510-215-3502
+Finger bruce@master.debian.org for PGP public key.
+PGP fingerprint = 88 6A 15 D0 65 D4 A3 A6  1F 89 6A 76 95 24 87 B3 
+
+
+--
+TO UNSUBSCRIBE FROM THIS MAILING LIST: e-mail the word "unsubscribe" to
+debian-announce-request@lists.debian.org . 
+Trouble?  e-mail to templin@bucknell.edu .
+
+</pre>
+<!--X-Body-of-Message-End-->
+<!--X-MsgBody-End-->
+<!--X-Follow-Ups-->
+<hr>
+<strong>Reply to:</strong>
+<ul>
+  <li><a href="mailto:debian-announce@lists.debian.org?in-reply-to=%3Cm0wkNSr-00IS1iC@debian.org%3E&amp;subject=Re:%20Debian%27s%20%22Social%20Contract%22%20with%20the%20Free%20Software%20Community">debian-announce@lists.debian.org</a></li>
+  <li><a href="mailto:bruce@debian.org?in-reply-to=%3Cm0wkNSr-00IS1iC@debian.org%3E&amp;subject=Re:%20Debian%27s%20%22Social%20Contract%22%20with%20the%20Free%20Software%20Community&amp;cc=debian-announce@lists.debian.org">Bruce Perens (on-list)</a></li>
+  <li><a href="mailto:bruce@debian.org?in-reply-to=%3Cm0wkNSr-00IS1iC@debian.org%3E&amp;subject=Re:%20Debian%27s%20%22Social%20Contract%22%20with%20the%20Free%20Software%20Community">Bruce Perens (off-list)</a></li>
+</ul>
+<hr>
+<!--X-Follow-Ups-End-->
+<!--X-References-->
+<!--X-References-End-->
+<!--X-BotPNI-->
+<ul>
+<li>Prev by Date:
+<strong><a href="https://lists.debian.org/debian-announce/1997/msg00016.html">Sell (or give away) the Debian 1.3 Official CD</a></strong>
+</li>
+<li>Next by Date:
+<strong><a href="https://lists.debian.org/debian-announce/1997/msg00018.html">Debian 1.3.1 released, Debian in Orbit!</a></strong>
+</li>
+<li>Previous by thread:
+<strong><a href="https://lists.debian.org/debian-announce/1997/msg00016.html">Sell (or give away) the Debian 1.3 Official CD</a></strong>
+</li>
+<li>Next by thread:
+<strong><a href="https://lists.debian.org/debian-announce/1997/msg00018.html">Debian 1.3.1 released, Debian in Orbit!</a></strong>
+</li>
+<li>Index(es):
+<ul>
+<li><a href="https://lists.debian.org/debian-announce/1997/maillist.html#00017"><strong>Date</strong></a></li>
+<li><a href="https://lists.debian.org/debian-announce/1997/threads.html#00017"><strong>Thread</strong></a></li>
+</ul>
+</li>
+</ul>
+
+<!--X-BotPNI-End-->
+<!--X-User-Footer-->
+<!--X-User-Footer-End-->
+
+
+</body></html>
+------MultipartBoundary--xQoleyNQ5F30itcgWK0hD0bKuYRH6sb5QGjcYgq4LT----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-e69db3b6-45d0-4661-a11e-e52d4de22e5a@mhtml.blink
+
+@charset "windows-1252";
+
+pre { white-space: pre-wrap; }
+------MultipartBoundary--xQoleyNQ5F30itcgWK0hD0bKuYRH6sb5QGjcYgq4LT------
